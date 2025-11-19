@@ -1,3 +1,6 @@
+
+
+
 class Solution(object):
     def romanToInt(self, s):
         """
@@ -23,6 +26,10 @@ class Solution(object):
                         num = num + last
                         break
         return num
+        
+        
+        
+        print(num)
     
 
       
